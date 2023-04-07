@@ -1,7 +1,7 @@
 {
   "name": "react-native-parental-gate",
   "version": "0.1.1",
-  "description": "test",
+  "description": "A parental gate presents an adult-level task that must be completed in order to continue.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
