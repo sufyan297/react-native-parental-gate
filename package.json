@@ -38,7 +38,8 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "parental-gate"
   ],
   "repository": "https://github.com/sufyan297/react-native-parental-gate",
   "author": "Mohammed Sufyan <sufyan@ascendtis.com> (https://github.com/sufyan297)",
